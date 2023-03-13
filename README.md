@@ -1,4 +1,12 @@
-### Hi there 👋
+<h1>Hi, I'm Alexander! Cybersecurity, Programmer, Musician/Producer </h1>
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>Active Directory Homelab </b> <a href="https://medium.com/@alexanderrmckain/how-to-setup-a-microsoft-server-active-directory-homelab-step-by-step-guide-f75e1b855235/">- Step by Step Guide</a>
+
+<h2>📃 Certifications </h2>
+
+- Comptia A+
 
 <!--
 **AlexanderMckain/AlexanderMckain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
