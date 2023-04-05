@@ -4,6 +4,9 @@
 
 - <b>Active Directory Homelab </b> <a href="https://medium.com/@alexanderrmckain/how-to-setup-a-microsoft-server-active-directory-homelab-step-by-step-guide-f75e1b855235/">- Step by Step Guide</a>
 
+- <b> Python Ransomware Case Study </b> <a href="https://github.com/AlexanderMckain/Python-Ransomware-Encrypter/">- Encrypter </a>
+-  <b> Python Ransomware Case Study </b> <a href="https://github.com/AlexanderMckain/Python-Ransomware-Decrypter/">- Decrypter </a>
+
 <h2>📃 Certifications </h2>
 
 - Comptia A+
