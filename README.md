@@ -5,12 +5,18 @@
 - <b>Active Directory Homelab </b> <a href="https://medium.com/@alexanderrmckain/how-to-setup-a-microsoft-server-active-directory-homelab-step-by-step-guide-f75e1b855235/">- Step by Step Guide</a>
 - <b> Python Ransomware Case Study </b> <a href="https://github.com/AlexanderMckain/Python-Ransomware-Encrypter/">- Encrypter </a>
 -  <b> Python Ransomware Case Study </b> <a href="https://github.com/AlexanderMckain/Python-Ransomware-Decrypter/">- Decrypter </a>
+
+<h2>⚡ Coding Projects ⚡</h2>
 - <a href= "https://github.com/AlexanderMckain/Youtube-Downloader"> Python Youtube Video Downloader </a>
+- <a href= "https://github.com/AlexanderMckain/Python-Memory-Game"> Python Memory Game </a>
+- <a href= "https://github.com/AlexanderMckain/Java-Typing-Game"> Java Typing Game </a>
+
+
 
 <h2>📃 Certifications </h2>
 
-- Comptia A+
-
+- CompTIA A+
+- CompTIA Network +
 <!--
 **AlexanderMckain/AlexanderMckain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
