@@ -1,4 +1,4 @@
-<h1>Hi, I'm Alexander! My interest: IT, Cybersecurity, Music/Producing </h1>
+<h1>Hi, I'm Alexander! My interest: Cybersecurity, Game Development, Music </h1>
 
 <h2>👨‍💻 IT & Cybersecurity Projects:</h2>
 
