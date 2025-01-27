@@ -11,13 +11,17 @@
 - <a href= "https://github.com/AlexanderMckain/Python-Memory-Game"> Python Memory Game </a>
 - <a href= "https://github.com/AlexanderMckain/Java-Typing-Game"> Java Typing Game </a>
 
-
+<h2>🎓Education</h2>
+B.S. Cybersecurity and Information Assurance 
 
 <h2>📃 Certifications </h2>
 
 - CompTIA A+
 - CompTIA Network +
 - CompTIA Security +
+- CompTIA CySa +
+- CompTIA Pentest +
+- ISC2 SSCP
 - ITIL 4
 <!--
 **AlexanderMckain/AlexanderMckain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
