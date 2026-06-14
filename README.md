@@ -1,26 +1,32 @@
 # Hi, I'm Alexander! 👋
-### My interests: Cybersecurity, Game Development, Music
+### My interests: Cybersecurity, Software Development, Music
 
-## 🚀 Featured Project
-* **Founder of [SiloRedact](https://siloredact.com/)** – A local-first, privacy-centric redaction tool built for secure LLM workflows.
+---
+
+## 🚀 Featured Projects
+
+* **Founder of [SiloRedact](https://github.com/AlexanderMckain/Silo-Redact)** – A local-first, 100% open-source privacy and redaction utility built to secure data workflows against upstream LLM leakage.
+* **Founder of [AltStack](https://www.altstack.app)** – A curated web directory dedicated to finding open-source software, security-focused utilities, and workflow integrations.
 
 ---
 
 ## 👨‍💻 IT & Cybersecurity Projects
 * **Python Ransomware Case Study** – [Encrypter](https://github.com/AlexanderMckain/Python-Ransomware-Encrypter/) | [Decrypter](https://github.com/AlexanderMckain/Python-Ransomware-Decrypter/)
 
-## ⚡ Coding Projects
+## ⚡ Utility & Coding Projects
 * [Python YouTube Video Downloader](https://github.com/AlexanderMckain/Youtube-Downloader)
 * [Python Memory Game](https://github.com/AlexanderMckain/Python-Memory-Game)
 * [Java Typing Game](https://github.com/AlexanderMckain/Java-Typing-Game)
 
+---
+
 ## 🎓 Education
 * **B.S. Cybersecurity and Information Assurance**
 
-## 📃 Certifications
-* **CompTIA:** A+ / Network+ / Security+ / CySa+ / Pentest+
+## 📃 Professional Certifications
+* **CompTIA:** A+ | Network+ | Security+ | CySA+ | PenTest+
 * **ISC2:** SSCP
-* **Other:** ITIL 4
+* **Axelos:** ITIL 4 Foundation
 <!--
 **AlexanderMckain/AlexanderMckain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
